@@ -21,7 +21,7 @@
  * [10 Model、View、Controller 三分天下](chapter10-mvc.md)
  * [11 Routes](chapter11-routes.md)
  * [12 Controller](chapter12-controllers.md)
- * [13 CRUD 分解動作 - 簡易票選系統實作](chapter13-crud.htlm)
+ * [13 CRUD 分解動作 - 簡易票選系統實作](chapter13-crud.md)
  * [14 Layout，Render 與 View Helper](chapter14-layout-render-and-view-helper.md)
  * [15 Model 基本操作](chapter15-model-basic.md)
  * [16 Model Migration](chapter16-model-migration.md)
